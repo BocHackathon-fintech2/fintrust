@@ -9,19 +9,17 @@ const About = () => (
     <Content padder>
       <Spacer size={30} />
       <H1>
-        Heading 1
+        FinTrust
       </H1>
       <Spacer size={10} />
       <Text>
-        Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo,
-        tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem
-        malesuada magna mollis euismod. Donec sed odio dui.
+        Find products to buy with a micro loans from our partner network.
         {' '}
       </Text>
 
       <Spacer size={30} />
       <H2>
-        Heading 2
+        Instructions
       </H2>
       <Spacer size={10} />
       <Text>
