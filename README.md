@@ -1,1 +1,0 @@
-Fintrust we trust
